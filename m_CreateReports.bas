@@ -39,7 +39,7 @@ UpdateReportWithTrend _
     PriorReportPath:=PriorLargeBPath, _
     OutputReportPath:=LargeBPath, _
     DetailSheetName:="LARGE BALANCE", _
-    TrendSheetName:="Trended", _
+    TrendSheetName:="TRENDED", _
     FacilityHeader:="ChildFacilityName", _
     AccountHeader:="ntNumber", _
     BalanceHeader:="AccountBalance", _
@@ -59,7 +59,7 @@ UpdateReportWithTrend _
     PriorReportPath:=PriorFlaggedPath, _
     OutputReportPath:=FlaggedPath, _
     DetailSheetName:="FLAGGED", _
-    TrendSheetName:="Trended", _
+    TrendSheetName:="TRENDED", _
     FacilityHeader:="Facility Name", _
     AccountHeader:="account number", _
     BalanceHeader:="account balance", _
